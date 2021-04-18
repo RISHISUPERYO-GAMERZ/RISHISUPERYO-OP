@@ -7,7 +7,7 @@ Who_I_Am = ["Python coder + Black Lightning small developer"] ⚡⚡
 Age= 11-12 😎🔥⚡
 Country = "🇮🇳 "
 ```
-![telegram badge](https://img.shields.io/badge/@Rishisuperyo-30302f?style=for-the-badge&logo=telegram](https://t.me/Rishisuperyo)
+#![telegram badge](https://img.shields.io/badge/@Rishisuperyo-30302f?style=for-the-badge&logo=telegram](https://t.me/Rishisuperyo)
 
 https://img.shields.io/badge/Rishisuperyo-Opf?style=for-the-badge&logo=gmail)](rituparnasen019@gmail.com)
 <p align="left"> <img 
