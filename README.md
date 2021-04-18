@@ -26,5 +26,5 @@ p align="left"> <img src="https://komarev.com/ghpvc/?username=Rishisuperyo-Op&la
 
 ![Rishisuperyo Git Stats](https://github-readme-stats.vercel.app/api?username=Rishisuperyo-Op&include_all_commits=true&count_private=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanpandey7647&layout=compact&theme=radical)](https://github.com/Rishisuperyo-Op)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishisuperyo-Op&layout=compact&theme=radical)](https://github.com/Rishisuperyo-Op)
 
