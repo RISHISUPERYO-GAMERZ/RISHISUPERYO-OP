@@ -1,6 +1,6 @@
 ### HELLO⚡⚡🔥🔥😎
 
-####ABOUT😎🔥⚡
+<b>ABOUT😎🔥⚡
 ```python
 Name = "Rishisuperyo"
 Who_I_Am = ["Python coder + Black Lightning small developer"] ⚡⚡
@@ -14,7 +14,7 @@ Country = "🇮🇳 "
 [![mailid badge](https://img.shields.io/badge/Rishisuperyo-Opf?style=for-the-badge&logo=gmail)](rituparnasen019@gmail.com)
 <p align="left"> <img 
 
-p align="left"> <img src="https://komarev.com/ghpvc/?username=Rishisuperyo-Op&label=Profile%20Views&color=yellow&style=flat-square" alt="Rishisuperyo-Op" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rishisuperyo-Op&label=Profile%20Views&color=yellow&style=flat-square" alt="Rishisuperyo-Op" /> </p>
 
 - I  like gaming and coding and still learning python telethon and git 😁
 
