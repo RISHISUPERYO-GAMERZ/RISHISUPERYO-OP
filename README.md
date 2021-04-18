@@ -1,27 +1,28 @@
-Hi ⚡
+### HELLO⚡⚡🔥🔥😎
 
-[My intro⚡😎](https://telegra.ph/file/78d43c6ca9f3e5ff08586.mp4)
+###ABOUT😎🔥⚡
+```python
+Name = "Rishisuperyo"
+Who_I_Am = ["Python coder + Black Lightning small developer"] ⚡⚡
+Age= 11-12 😎🔥⚡
+Country = "🇮🇳 "
+```
+###![telegram badge](https://img.shields.io/badge/@PythonProgramingIN-30302f?style=for-the-badge&logo=telegram)](https://t.me/Rishisuperyo)
+https://img.shields.io/badge/Rishisuperyo-Opf?style=for-the-badge&logo=gmail)](rituparnasen019@gmail.com)
+<p align="left"> <img 
 
-I am advance in coding😉
+p align="left"> <img src="https://komarev.com/ghpvc/?username=Rishisuperyo-Op&label=Profile%20Views&color=yellow&style=flat-square" alt="Rishisuperyo-Op" /> </p>
 
-My yt logo 👇😂
+-I like gaming and coding and still learning python telethon and git 😁
 
-![IMG_20210225_163541_304](https://user-images.githubusercontent.com/73427470/109849239-2645e780-7c77-11eb-9fba-461876f2629e.jpg)
-Coming soon with op things⚡
+- Python & Telethon & FREE FIRE  LOVER ⚡💝💗💖
 
-About me:- So much helpful for others😊
-But can be devil sometime 😂😂
+-Maximum Respitories for telegram😎⚡
 
-Fun fact:- I am just a kid😂
-
-
-
-If u have ITTU si sharam to yeh kuch kang mat karna😂
-
-Op bolte ⚡😎
-
-
-![IMG_20210302_132310_782](https://user-images.githubusercontent.com/73427470/109853045-79ba3480-7c7b-11eb-8e97-1f264b0f634d.jpg)
+<h4 align="center"><b>My GitHub Status⚡</b></h4>
 
 
+![Rishisuperyo Git Stats](https://github-readme-stats.vercel.app/api?username=Rishisuperyo-Op&include_all_commits=true&count_private=true&theme=highcontrast)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanpandey7647&layout=compact&theme=radical)](https://github.com/Rishisuperyo-Op)
 
