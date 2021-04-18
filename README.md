@@ -15,11 +15,11 @@ https://img.shields.io/badge/Rishisuperyo-Opf?style=for-the-badge&logo=gmail)](r
 
 p align="left"> <img src="https://komarev.com/ghpvc/?username=Rishisuperyo-Op&label=Profile%20Views&color=yellow&style=flat-square" alt="Rishisuperyo-Op" /> </p>
 
--I like gaming and coding and still learning python telethon and git 😁
+-I  like gaming and coding and still learning python telethon and git 😁
 
 - Python & Telethon & FREE FIRE  LOVER ⚡💝💗💖
 
--Maximum Respitories for telegram😎⚡
+- Maximum Respitories for telegram😎⚡
 
 <h4 align="center"><b>My GitHub Status⚡</b></h4>
 
