@@ -5,6 +5,7 @@
 Name = "Rishisuperyo"
 Who_I_Am = ["Python coder + Black Lightning small developer"] ⚡⚡
 Age= 11-12 😎🔥⚡
+Born of this king ⚡ = ["15th June " Year :- 2009⚡"]
 Country = "🇮🇳 "
 ```
 ####
