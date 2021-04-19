@@ -27,8 +27,14 @@ Country = "🇮🇳 "
 
 ![Rishisuperyo Git Stats](https://github-readme-stats.vercel.app/api?username=Rishisuperyo-Op&include_all_commits=true&count_private=true&theme=highcontrast)
 
-- MY TOP LANGUAGES
+- MY TOP LANGUAGES⚡
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishisuperyo-Op&layout=compact&theme=radical)](https://github.com/Rishisuperyo-Op)
 
+###TOP LANGS I LOVE AND I USE😁⚡😎
+[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://git-scm.com/)
+[<img align="left" alt="Heroku" width="26px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" />](https://heroku.com/)
+[<img align="left" alt="Telethon" width="26px" src="https://user-images.githubusercontent.com/73427470/115179805-cb1a6800-a0f1-11eb-8cfa-c8bd4470ffa4.jpg"/>](https://GitHub.com/LonamiWebs/Telethon/)
+[<img align="left" alt="Termux" width="26px" src="https://user-images.githubusercontent.com/73427470/115179870-ec7b5400-a0f1-11eb-9d12-9025cc657f4a.png"/>](https://play.google.com/store/apps/details?id=com.termux/)
