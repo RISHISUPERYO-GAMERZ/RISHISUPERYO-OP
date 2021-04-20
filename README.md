@@ -39,9 +39,9 @@ Country = "🇮🇳 "
 [<img align="left" alt="Heroku" width="26px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" />](https://heroku.com/)
 [<img align="left" alt="Telethon" width="26px" src="https://user-images.githubusercontent.com/73427470/115179805-cb1a6800-a0f1-11eb-8cfa-c8bd4470ffa4.jpg"/>](https://GitHub.com/LonamiWebs/Telethon/)
 [<img align="left" alt="Termux" width="26px" src="https://user-images.githubusercontent.com/73427470/115179870-ec7b5400-a0f1-11eb-9d12-9025cc657f4a.png"/>](https://play.google.com/store/apps/details?id=com.termux/)
-\n
 
-- The games I love + I am pro 😎⚡\n\n
+
+##### The games I love + I am pro 😎⚡\
 
 
 
@@ -67,4 +67,4 @@ Country = "🇮🇳 "
 
 
 
-- 200 more 😎⚡😂😂
+
