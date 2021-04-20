@@ -40,7 +40,9 @@ Country = "🇮🇳 "
 [<img align="left" alt="Telethon" width="26px" src="https://user-images.githubusercontent.com/73427470/115179805-cb1a6800-a0f1-11eb-8cfa-c8bd4470ffa4.jpg"/>](https://GitHub.com/LonamiWebs/Telethon/)
 [<img align="left" alt="Termux" width="26px" src="https://user-images.githubusercontent.com/73427470/115179870-ec7b5400-a0f1-11eb-9d12-9025cc657f4a.png"/>](https://play.google.com/store/apps/details?id=com.termux/)
 
+
 - The games I love + I am pro 😎⚡
+
 
 [<img align="left" alt="FREE FIRE" width="50px" src="https://user-images.githubusercontent.com/73427470/115249693-7e14b100-a146-11eb-9900-06d5a408f29e.jpg"/>](https://play.google.com/store/apps/details?id=com.dts.freefireth/)
 [<img align="left" alt="AMONG US" width="50px" src="https://user-images.githubusercontent.com/73427470/115249741-88cf4600-a146-11eb-8280-c1371e01c75c.jpg"/>](https://play.google.com/store/apps/details?id=com.innersloth.spacemafia/)
