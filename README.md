@@ -41,7 +41,7 @@ Country = "🇮🇳 "
 [<img align="left" alt="Termux" width="26px" src="https://user-images.githubusercontent.com/73427470/115179870-ec7b5400-a0f1-11eb-9d12-9025cc657f4a.png"/>](https://play.google.com/store/apps/details?id=com.termux/)
 
 
-##### The games I love + I am pro 😎⚡\
+`The games I love + I am pro 😎⚡`
 
 
 
