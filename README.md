@@ -46,6 +46,6 @@ Country = "🇮🇳 "
 [<img align="left" alt="AMONG US" width="30px" src="https://user-images.githubusercontent.com/73427470/115249741-88cf4600-a146-11eb-8280-c1371e01c75c.jpg"/>](https://play.google.com/store/apps/details?id=com.innersloth.spacemafia/)
 [<img align="left" alt="DREAM LEAGUE SOCCER 2021" width="30px" src="https://user-images.githubusercontent.com/73427470/115249918-b7e5b780-a146-11eb-8a66-94757c585f93.jpg"/>](https://play.google.com/store/apps/details?id=com.firsttouchgames.dls7/)
 
-[<img align="left" alt="8 BALL POOL" width="25px" src="https://user-images.githubusercontent.com/73427470/115249856-a7cdd800-a146-11eb-886a-12a9d8e09c7d.jpg/>](https://play.google.com/store/apps/details?id=com.miniclip.eightballpool/)
-[<img align="left" alt="ANGRY BIRDS 2" width="10px" src=https://user-images.githubusercontent.com/73427470/115249998-cb911e00-a146-11eb-9fcd-8a5d013f0937.jpg/>](https://play.google.com/store/apps/details?id=com.rovio.baba/)
+[<img align="left" alt="8 BALL POOL" width="25px" src="https://user-images.githubusercontent.com/73427470/115249856-a7cdd800-a146-11eb-886a-12a9d8e09c7d.jpg"/>](https://play.google.com/store/apps/details?id=com.miniclip.eightballpool/)
+[<img align="left" alt="ANGRY BIRDS 2" width="10px" src=https://user-images.githubusercontent.com/73427470/115249998-cb911e00-a146-11eb-9fcd-8a5d013f0937.jpg"/>](https://play.google.com/store/apps/details?id=com.rovio.baba/)
 - 200 more 😎⚡😂😂
