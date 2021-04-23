@@ -2,11 +2,11 @@
 
 <b>ABOUT😎🔥⚡
 ```python
-Name = "Rishisuperyo"
-Who_I_Am = ["Python coder + Black Lightning small developer"] ⚡⚡
+Name = Rishisuperyo
+Who I Am = [Python coder + Black Lightning small developer] ⚡⚡
 Age= 11-12 😎🔥⚡
-Born of this king ⚡ = ["15th June " Year :- 2009⚡"]
-Country = "🇮🇳 "
+Born of this king ⚡ = [15th June  Year :- 2009⚡]
+Country = 🇮🇳 
 ```
 ####
 [![telegram badge](https://img.shields.io/badge/@Rishisuperyo-30302f?style=for-the-badge&logo=telegram)](https://t.me/Rishisuperyo)
@@ -50,12 +50,12 @@ ________________________________________________________
 
 
 
-[<img align="left" alt="FREE FIRE" width="50px" src="https://user-images.githubusercontent.com/73427470/115249693-7e14b100-a146-11eb-9900-06d5a408f29e.jpg"/>](https://play.google.com/store/apps/details?id=com.dts.freefireth/)
-[<img align="left" alt="SHADOW FIGHT 2" width="50px" src="https://user-images.githubusercontent.com/73427470/115359460-540dce00-a1dc-11eb-9829-d92236b3d549.jpg"/>](https://play.google.com/store/apps/details?id=com.nekki.shadowfight/)
-[<img align="left" alt="AMONG US" width="50px" src="https://user-images.githubusercontent.com/73427470/115249741-88cf4600-a146-11eb-8280-c1371e01c75c.jpg"/>](https://play.google.com/store/apps/details?id=com.innersloth.spacemafia/)
-[<img align="left" alt="DREAM LEAGUE SOCCER 2021" width="30px" src="https://user-images.githubusercontent.com/73427470/115249918-b7e5b780-a146-11eb-8a66-94757c585f93.jpg"/>](https://play.google.com/store/apps/details?id=com.firsttouchgames.dls7/)
-[<img align="left" alt="8 BALL POOL" width="50px" src="https://user-images.githubusercontent.com/73427470/115249856-a7cdd800-a146-11eb-886a-12a9d8e09c7d.jpg"/>](https://play.google.com/store/apps/details?id=com.miniclip.eightballpool/)
-[<img align="left" alt="ANGRY BIRDS 2" width="30px" src="https://user-images.githubusercontent.com/73427470/115249998-cb911e00-a146-11eb-9fcd-8a5d013f0937.jpg"/>](https://play.google.com/store/apps/details?id=com.rovio.baba/)
+[<img align="left" alt="FREE FIRE" width="50px" src="https://user-images.githubusercontent.com/73427470/115249693-7e14b100-a146-11eb-9900-06d5a408f29e.jpg"/>](https://play.google.com/store/apps/details?id=com.dts.freefireth)
+[<img align="left" alt="SHADOW FIGHT 2" width="50px" src="https://user-images.githubusercontent.com/73427470/115359460-540dce00-a1dc-11eb-9829-d92236b3d549.jpg"/>](https://play.google.com/store/apps/details?id=com.nekki.shadowfight)
+[<img align="left" alt="AMONG US" width="50px" src="https://user-images.githubusercontent.com/73427470/115249741-88cf4600-a146-11eb-8280-c1371e01c75c.jpg"/>](https://play.google.com/store/apps/details?id=com.innersloth.spacemafia)
+[<img align="left" alt="DREAM LEAGUE SOCCER 2021" width="30px" src="https://user-images.githubusercontent.com/73427470/115249918-b7e5b780-a146-11eb-8a66-94757c585f93.jpg"/>](https://play.google.com/store/apps/details?id=com.firsttouchgames.dls7)
+[<img align="left" alt="8 BALL POOL" width="50px" src="https://user-images.githubusercontent.com/73427470/115249856-a7cdd800-a146-11eb-886a-12a9d8e09c7d.jpg"/>](https://play.google.com/store/apps/details?id=com.miniclip.eightballpool)
+[<img align="left" alt="ANGRY BIRDS 2" width="30px" src="https://user-images.githubusercontent.com/73427470/115249998-cb911e00-a146-11eb-9fcd-8a5d013f0937.jpg"/>](https://play.google.com/store/apps/details?id=com.rovio.baba)
 ________________________________________________________
 
 And 200 more😎⚡😂😂
