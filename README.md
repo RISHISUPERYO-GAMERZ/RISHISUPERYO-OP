@@ -1,4 +1,4 @@
-#Help liya tha amanpandey sa 😂 kang ni kiya tha ab sikh gya hu noob ni ok khud hi kar sakta.😶
+#Help liya tha amanpandey sa 😂 kang ni kiya tha ab sikh gya hu noob ni ok khud hi kar sakta.😶.
 ### HELLO⚡⚡🔥🔥😎
 
 <b>ABOUT😎🔥⚡
